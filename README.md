@@ -6,4 +6,4 @@ The AR chess game made with Unity AR foundation and Photon
 3. Setup your AR foundation according to your platform(Android, ios...).
 4. Inport this package and open "Launcher" scene.
 5. Add "Launcher" and "Chess" scenes in "Build Setting".
-6. Build the project.
+6. Build the project and install it in your cellphone.
